@@ -7,3 +7,5 @@ fill() -> to fill color inside
 draw() -> this function keep on running  
 
 ml5.js -> help us to implement tenser flow function unsing ml5 make it easy to interact with tenserflow 
+
+live demo - https://shubhamgarg44.github.io/Posture_detection/
